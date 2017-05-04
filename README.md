@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <script>console.log(2*21);</script>
 
-<iframe src="https://raw.githubusercontent.com/datenkeller/serviceplease/master/README.md"></iframe>
+<script src="https://raw.githubusercontent.com/datenkeller/serviceplease/master/script.js"></script>
